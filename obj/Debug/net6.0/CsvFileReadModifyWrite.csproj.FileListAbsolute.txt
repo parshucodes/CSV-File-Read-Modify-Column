@@ -1,0 +1,14 @@
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\obj\Debug\net6.0\CsvFileReadModifyWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\obj\Debug\net6.0\CsvFileReadModifyWrite.AssemblyInfoInputs.cache
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\obj\Debug\net6.0\CsvFileReadModifyWrite.AssemblyInfo.cs
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\obj\Debug\net6.0\CsvFileReadModifyWrite.csproj.CoreCompileInputs.cache
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\bin\Debug\net6.0\CsvFileReadModifyWrite.exe
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\bin\Debug\net6.0\CsvFileReadModifyWrite.deps.json
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\bin\Debug\net6.0\CsvFileReadModifyWrite.runtimeconfig.json
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\bin\Debug\net6.0\CsvFileReadModifyWrite.dll
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\bin\Debug\net6.0\CsvFileReadModifyWrite.pdb
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\obj\Debug\net6.0\CsvFileReadModifyWrite.dll
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\obj\Debug\net6.0\refint\CsvFileReadModifyWrite.dll
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\obj\Debug\net6.0\CsvFileReadModifyWrite.pdb
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\obj\Debug\net6.0\CsvFileReadModifyWrite.genruntimeconfig.cache
+C:\Users\parsh\Documents\Projects\csvfilereadmodifywrite\obj\Debug\net6.0\ref\CsvFileReadModifyWrite.dll
